@@ -1,0 +1,61 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Design.PreviewWith>
+        <Border Padding="20">
+            <!-- Add Controls for Previewer Here -->
+        </Border>
+    </Design.PreviewWith>
+
+    <Style>
+        <Style.Resources>
+            <FontFamily x:Key="PoppinsBlack">
+                avares://soundboard/Assets/Fonts/Poppins-Black.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsBlackItalic">
+                avares://soundboard/Assets/Fonts/Poppins-BlackItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsBold">
+                avares://soundboard/Assets/Fonts/Poppins-Bold.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsBoldItalic">
+                avares://soundboard/Assets/Fonts/Poppins-BoldItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsExtraBold">
+                avares://soundboard/Assets/Fonts/Poppins-ExtraBold.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsExtraBoldItalic">
+                avares://soundboard/Assets/Fonts/Poppins-ExtraBoldItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsExtraLight">
+                avares://soundboard/Assets/Fonts/ExtraLight.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsExtraLightItalic">
+                avares://soundboard/Assets/Fonts/Poppins-ExtraLightItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsItalic">
+                avares://soundboard/Assets/Fonts/Poppins-Italic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsLightItalic">
+                avares://soundboard/Assets/Fonts/Poppins-LightItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsMedium">
+                avares://soundboard/Assets/Fonts/Poppins-Medium.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsMediumItalic">
+                avares://soundboard/Assets/Fonts/Poppins-MediumItalic.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsRegular">
+                avares://soundboard/Assets/Fonts/Poppins-Regular.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsSemibBold">
+                avares://soundboard/Assets/Fonts/Poppins-SemiBold.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsThin">
+                avares://soundboard/Assets/Fonts/Poppins-Thin.ttf
+            </FontFamily>
+            <FontFamily x:Key="PoppinsThinItalic">
+                avares://soundboard/Assets/Fonts/Poppins-ThinItalic.ttf
+            </FontFamily>
+        </Style.Resources>
+    </Style>
+</Styles>

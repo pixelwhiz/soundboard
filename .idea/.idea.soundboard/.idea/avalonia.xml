@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="soundboard.csproj" />
+        <entry key="Assets/Fonts.axaml" value="soundboard.csproj" />
+        <entry key="Assets/Icons.axaml" value="soundboard.csproj" />
+        <entry key="Styles/Styles.axaml" value="soundboard.csproj" />
+        <entry key="Views/Components/PageToClassConverter.axaml" value="soundboard.csproj" />
+        <entry key="Views/Components/Sidebar.axaml" value="soundboard.csproj" />
+        <entry key="Views/Home.axaml" value="soundboard.csproj" />
+        <entry key="Views/MainWindow.axaml" value="soundboard.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
